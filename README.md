@@ -17,6 +17,10 @@ Initialize and build infrastucture
 terraform init
 terraform apply
 ```
+Paste Output IP address in browser:
+
+![image](https://user-images.githubusercontent.com/44177257/179165785-69cf7908-c4de-41a5-aa51-6d0a6e0aae6c.png)
+
 to destroy infrastucture
 ```
 terraform destroy
